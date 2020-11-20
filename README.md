@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>💻 Hi!, my name is <b>Tonatiuh Flores Castelán</b>, I live in Mexico City and I have 31 years old currently.</p>
+<p>💻 Hi!, my name is <b>Tonatiuh Flores Castelán</b>, I live in Mexico City and I have 31 years old.</p>
 
 <p>💻 I'm a <b>Software Engineer</b> at <b>BlackTrust</b> right now and have been working as a <b>Software Engineer</b> for 8 years, nowadays doing more BackEnd than FrontEnd.</p>
 
@@ -40,8 +40,7 @@
 ![Apple](https://img.shields.io/badge/MacOS-999999?style=flat-square&logo=Apple&logoColor=white)
 
 ## Github Stats
-[![Tona's Github stats](https://github-readme-stats.vercel.app/api?username=tonaflcastelan&theme=dracula)](https://github.com/tonaflcastelan/)
 [![Top Langs](https://wakatime.com/share/@tonaflcastelan/234463e2-6960-4422-830c-9a3457ba575f.png)](https://github.com/tonaflcastelan/)
-
+[![Tona's Github stats](https://github-readme-stats.vercel.app/api?username=tonaflcastelan&theme=dracula)](https://github.com/tonaflcastelan/)
 
 
