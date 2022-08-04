@@ -2,11 +2,9 @@
 
 <p>💻 Hi!, my name is <b>Tonatiuh Flores Castelán</b>, I live in Mexico City and I have 31 years old.</p>
 
-<p>💻 I'm a <b>Software Engineer</b> at <b>BlackTrust</b> right now and have been working as a <b>Software Engineer</b> for 8 years, nowadays doing more BackEnd than FrontEnd.</p>
+<p>💻 I'm a Software Engineer at <b>Medtrainer</b> right now and have been working as a Software Engineer for 10 years, nowadays doing more BackEnd than FrontEnd.</p>
 
-<p>🌱 I’m currently learning Go and NodeJS, also I'm tacking courses and documenting myself to get a Laravel certification.</p>
-
-<p>🔭 Right now I'm working on many things, in my current job I use tools as Symfony, Python and Go, these two last running as lambdas in AWS. And as a freelancer, I'm working on an API Rest build with Laravel, a web scraping make it with Selenium/Python and also using AWS tools as lambdas and SQS for the development</p>
+<p>🔭 Right now I'm working on many things, in my current job I use tools such as Symfony. And as a freelancer, I'm working on an API Rest build with Laravel, a web scraping make with Selenium/Python, and also using AWS tools such as lambdas and SQS for the development</p>
 
 <p>🌐 I speak <b>Spanish</b> and a little of <b>English</b></p>
 
