@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>💻 Hi!, my name is <b>Tonatiuh Flores Castelán</b>, I live in Mexico City and I have 31 years old.</p>
+<p>💻 Hi!, my name is <b>Tonatiuh Flores Castelán</b></p>
 
 <p>💻 I'm a Software Engineer at <b>Medtrainer</b> right now and have been working as a Software Engineer for 10 years, nowadays doing more BackEnd than FrontEnd.</p>
 
